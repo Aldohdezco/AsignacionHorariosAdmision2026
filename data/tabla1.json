@@ -1,0 +1,11 @@
+[
+  {"id": "A", "materia": "Mate I", "grupo": "G1", "docente": "T1"},
+  {"id": "B", "materia": "Mate II", "grupo": "G1", "docente": "T2"},
+  {"id": "C", "materia": "Mate III", "grupo": "G1", "docente": "T3"},
+  {"id": "D", "materia": "Fisica I", "grupo": "G2", "docente": "T1"},
+  {"id": "E", "materia": "Fisica II", "grupo": "G2", "docente": "T2"},
+  {"id": "F", "materia": "Fisica III", "grupo": "G2", "docente": "T3"},
+  {"id": "G", "materia": "Prog I", "grupo": "G3", "docente": "T1"},
+  {"id": "H", "materia": "Prog II", "grupo": "G3", "docente": "T2"},
+  {"id": "I", "materia": "Prog III", "grupo": "G3", "docente": "T3"}
+]
